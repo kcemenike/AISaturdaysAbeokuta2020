@@ -15,5 +15,6 @@ In the input, ask the user to type 0 to exit or his date of birth
 - If user types 0, exit the program
 - If user types his date of birth, compute the age
 - After age computes, give the opportunity to the user to enter another date of birth
-'''
+
+If you have any issues, kindly reach out via Twitter (@kcemenike or @pydataco), Telegram (@pydataco) or via email (kcemenike [at] live [dot] com)
 
