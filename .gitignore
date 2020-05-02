@@ -1,2 +1,7 @@
-.history/
-__pycache__/
+**/.history/
+**/__pycache__/
+**/.vscode/
+
+**/.env
+
+final/
