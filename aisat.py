@@ -25,7 +25,7 @@ def compute_age_from_dob(year_of_birth='1900'):
 
 compute_age_from_dob()
 
-''' Assignment
+''' Assignment update
 Fork this git repository, then clone it on your computer
 https://github.com/kcemenike/AISaturdaysAbeokuta2020.git
 
